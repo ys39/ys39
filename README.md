@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys39&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys39&layout=compact&hide=javascript,html)
 
 <!--
 **ys39/ys39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
